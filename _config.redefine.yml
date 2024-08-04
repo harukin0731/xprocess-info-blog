@@ -188,9 +188,9 @@ navbar:
     アーカイブ:
       path: /archives
       icon: fa-regular fa-archive # can be empty
-    Status:
-      path: https://status.ohevan.com/
-      icon: fa-regular fa-chart-bar
+    # Status:
+    #   path: https://status.ohevan.com/
+    #   icon: fa-regular fa-chart-bar
     Xprocessについて:
       icon: fa-regular fa-user
       path: /about
