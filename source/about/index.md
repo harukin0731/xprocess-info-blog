@@ -15,13 +15,13 @@ XProcess は、harukin の作成物を公開する際の名義です。アプリ
 ---
 
 haruk.in
-{% btn [optional size]::harukinサイト トップページ::[https://haruk.in]::[optional icon] %}
-{% btn [optional size]::harukinサイト ネイティブアプリページ::[https://haruk.in?page=Apps]::[optional icon] %}
-{% btn [optional size]::harukinサイト ウェブソフト::[https://haruk.in/?page=web]::[optional icon] %}
+{% btn [optional size]::harukinサイト トップページ::https://haruk.in::[optional icon] %}
+{% btn [optional size]::harukinサイト ネイティブアプリページ::https://haruk.in?page=Apps::[optional icon] %}
+{% btn [optional size]::harukinサイト ウェブソフト::https://haruk.in/?page=web::[optional icon] %}
 
 ---
 
 お問い合わせ先
-{% btn [optional size]::Twitter::[https://twitter.com/@xprocess_main]::[optional icon] %}
+{% btn [optional size]::Twitter::https://twitter.com/@xprocess_main::[optional icon] %}
 
 ---
