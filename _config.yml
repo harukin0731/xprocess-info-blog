@@ -6,7 +6,7 @@ author: harukin
 language: ja
 timezone: Japan
 url: https://xprocess.haruk.in
-permalink: ":year/:month/:day/:name"
+permalink: ":year/:month/:day/:name.html"
 permalink_defaults: null
 pretty_urls:
   trailing_index: true
