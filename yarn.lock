@@ -744,6 +744,11 @@ hexo-util@^3.0.1, hexo-util@^3.1.0, hexo-util@^3.3.0:
     prismjs "^1.29.0"
     strip-indent "^3.0.0"
 
+hexo-valkyr-url@^1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/hexo-valkyr-url/-/hexo-valkyr-url-1.1.0.tgz#f7c10a9b4c15e481f4a64c3bd4e3427d49e887cd"
+  integrity sha512-6vStCyttbV1+DJLlZ4vRszZlzSIrr1dx1WLfmOHTOTVFdf37Y1iqfuaaOuRju2WK6CdHj4Jl5YwiLqYfPdkibA==
+
 hexo@^7.3.0:
   version "7.3.0"
   resolved "https://registry.yarnpkg.com/hexo/-/hexo-7.3.0.tgz#a9a487874c5ed71c22e91e32dd5d825709a1474f"
