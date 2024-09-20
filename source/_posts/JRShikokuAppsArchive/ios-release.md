@@ -16,10 +16,6 @@ tags:
 
 今後はApp Storeからのダウンロードが可能となります。
 
-↓以前のTwitter投稿より↓
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">🎉🎉🎉Xprocessよりささやかなクリスマスプレゼント！🎉🎉🎉<br>JR四国アプリのパブリックベータ版です。<br>車番表示しかできませんが実験用に準備してる領域を開放します！<br>動作しないことは認識しているのでノークレーム、ノーリターンでよろしくおねがいします！<a href="https://t.co/kcGIXlXMKO">https://t.co/kcGIXlXMKO</a></p>&mdash; Xprocess (@Xprocess_main) <a href="https://twitter.com/Xprocess_main/status/1209842379919806464?ref_src=twsrc%5Etfw">December 25, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
-
-
 ### **AppStoreのリンク**
 
 {% btn center large::App Storeより今すぐダウンロード::https://apps.apple.com/app/%E9%9D%9E%E5%85%AC%E5%BC%8F-jr%E5%9B%9B%E5%9B%BD%E5%88%97%E8%BB%8A%E9%81%8B%E8%A1%8C%E6%83%85%E5%A0%B1/id1492536111::fa-brands fa-app-store %}
@@ -47,6 +43,10 @@ Testflightアプリもアンインストールしてもらって構いません�
 
 来年の春、ダイヤ改正の時期にはまた新しい機能を強化予定です。また、ちょっとずつ情報が出てきているロイヤルエクスプレス四国の情報も反映予定です。
 
-以上、これまでTestflightへのご協力、本当にありがとうございました！！！
+以上、これまで大体5年間、Testflightへのご協力、本当にありがとうございました！！！
 
 これからも当アプリをよろしくお願いいたします！
+
+#### おまけ：思い出の投稿
+↓以前のTwitter投稿より↓
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">🎉🎉🎉Xprocessよりささやかなクリスマスプレゼント！🎉🎉🎉<br>JR四国アプリのパブリックベータ版です。<br>車番表示しかできませんが実験用に準備してる領域を開放します！<br>動作しないことは認識しているのでノークレーム、ノーリターンでよろしくおねがいします！<a href="https://t.co/kcGIXlXMKO">https://t.co/kcGIXlXMKO</a></p>&mdash; Xprocess (@Xprocess_main) <a href="https://twitter.com/Xprocess_main/status/1209842379919806464?ref_src=twsrc%5Etfw">December 25, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
