@@ -8,6 +8,7 @@ tags:
   - "JR四国列車位置情報アプリ"
   - "MobileApps"
   - "iOS"
+  - "AppStoreRelease"
 ---
 
 平素よりJR四国非公式位置情報アプリをご利用いただき、誠にありがとうございます。
