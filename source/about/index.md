@@ -22,6 +22,7 @@ haruk.in
 ---
 
 お問い合わせ先
-{% btn [optional size]::Twitter::https://twitter.com/@xprocess_main::[optional icon] %}
+{% btn [optional size]::Twitter公式::https://twitter.com/@xprocess_main::[optional icon] %}
+{% btn [optional size]::マシュマロ(匿名質問箱)::https://marshmallow-qa.com/pag3sl0ju3g1jm7?t=aq7cUR&utm_medium=url_text&utm_source=promotion::[optional icon] %}から質問してください。
 
 ---
