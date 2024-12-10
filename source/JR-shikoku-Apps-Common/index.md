@@ -2,7 +2,9 @@
 title: "JR四国非公式列車位置情報アプリ"
 date: 2024-11-01 09:03:07
 ---
-<meta name="apple-itunes-app" content="app-id=1492536111">
+<head>
+    <meta name="apple-itunes-app" content="app-id=1492536111">
+</head>
 <div style="background-color:#f8f8fc;border-radius:10px;padding:10px;">
     <image src="./assets/Header.png" style="width:90%;padding-top:30px">
     <p style="color:black">JR四国非公式アプリは、<a href=https://train.jr-shikoku.co.jp/sp.html>JR四国の位置情報表示サイト</a>を元に開発が始まったアプリです。JR四国の列車位置情報をリアルタイムで表示することができます。また、列車の種別や運行状況、遅延情報なども確認できる総合ポータルアプリとして開発を進めております。</p>
