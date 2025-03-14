@@ -3,7 +3,7 @@
 
 
 
-<p style="font-size: 50px; font-weight: bold; text-align:center;font-color:red;">ステージ1作業開始前</p>
+<p style="font-size: 50px; font-weight: bold; text-align:center; color:red;">ステージ1作業開始前</p>
 
 
 
