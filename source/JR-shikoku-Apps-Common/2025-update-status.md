@@ -3,11 +3,25 @@
 
 
 
-<p style="font-size: 50px; font-weight: bold; text-align:center; color:red;">ステージ3完了</p>
+<p style="font-size: 50px; font-weight: bold; text-align:center; color:red;">ステージ4進行中</p>
 
-
+<div>
+<div style="display: flex; justify-content: space-around;">
+<p style="width:100%; height:100%;border-width:2px;text-align:center;background-color:white;border-color:#F5AC1370;margin:10px;">Y</p>
+<p style="width:100%; height:100%;border-width:2px;text-align:center;background-color:white;border-color:#F5AC1370;margin:10px;">U</p>
+<p style="width:100%; height:100%;border-width:2px;text-align:center;background-color:white;border-color:#9AA7D770;margin:10px;">S</p>
+<p style="width:100%; height:100%;border-width:2px;text-align:center;background-color:white;border-color:#DC458670;margin:10px;">D</p>
+</div>
+<div style="display: flex; justify-content: space-around;">
+<p style="width:100%; height:100%;border-width:2px;text-align:center;background-color:white;border-color:#DC458670;margin:10px;">K</p>
+<p style="width:100%; height:100%;border-width:2px;text-align:center;background-color:#87CA3B;border-color:#87CA3B;margin:10px;color:white;">T</p>
+<p style="width:100%; height:100%;border-width:2px;text-align:center;background-color:#366481;border-color:#366481;margin:10px;color:white;">B</p>
+<p style="width:100%; height:100%;border-width:2px;text-align:center;background-color:#881F61;border-color:#881F61;margin:10px;color:white;">N</p>
+</div>
+</div>
 
 ### 現在の更新状況
+- **2025/03/22(21:00)時点**：情報提供により高徳線、徳島線、鳴門線の普通列車アイコンを追加しました。
 - **2025/03/20(01:00)時点**：一部の列車アイコンの修正、直通系の修正を行いました。また、臨時列車の情報を追加しました。
 - **2025/03/16(15:20)時点**：うずしおのアイコンを修正完了しました。また、ごめん/なはり線、牟岐線直通列車の直通表記対応を行いました。
 - **2025/03/15(13:30)時点**：うずしお以外の特急列車、マリンライナー、貨物列車のアイコンを追加しました。
