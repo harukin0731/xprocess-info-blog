@@ -1,7 +1,7 @@
 # 列車アイコンの見方
 <div style="display:flex;flex-direction:row;overflow:scroll">
-    <image src="./jr-shikoku-help-image.png"  style="height:700px;max-width:300px;margin:10px;">
-    <image src="./jr-shikoku-help-image2.png"  style="height:700px;max-width:300px;margin:10px;">
+    <image src="./jr-shikoku-help-image.png"  style="height:420px;max-width:300px;margin:10px;">
+    <image src="./jr-shikoku-help-image2.png"  style="height:420px;max-width:300px;margin:10px;">
 </div>
 
 #### 種別について
