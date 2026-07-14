@@ -25,12 +25,23 @@ date: 2024-11-01 09:03:07
 </div>
 
 ## 基本的な機能紹介
+
 - **リアルタイム列車位置情報**: JR四国の列車の現在位置をリアルタイムで表示します。
 - **使用車種表示**: 列車の種類をアイコンで表示します。
 - **遅延情報**: 遅延情報を表示します。
 - **列車番号表示**: 列車番号を表示します。列車番号の意味については[こちら](/JR-shikoku-Apps-Common/custom-icon-database)を参照してください。
 - **アプリ適応UI**: 公式のUIをAndroid/iOSに最適化させ、駅情報や列車情報へのアクセス性を飛躍的に高めたシステムを作成しています。
 - **お気に入り機能**: 発車標LEDや、現在地ジャンプなど様々な拡張機能が利用可能になります。
-## 参考資料
-- [列車番号の意味解説](/JR-shikoku-Apps-Common/custom-icon-database)
 
+## サポート・お問い合わせ
+
+- [JR四国非公式アプリ サポート](/JR-shikoku-Apps-Common/support/)
+- [プライバシーポリシー](/JR-shikoku-Apps-Common/NativeAppsPrivacyPolicy)
+- Discord：[公式Discordの参加案内](https://twitter.com/Xprocess_main/status/1955242437817012300)
+- X（旧Twitter）：[@Xprocess_main](https://twitter.com/Xprocess_main)
+- マシュマロ：[匿名質問箱](https://marshmallow-qa.com/pag3sl0ju3g1jm7)
+- サポートメール：[contact@haruk.in](mailto:contact@haruk.in?subject=JR%E5%9B%9B%E5%9B%BD%E9%9D%9E%E5%85%AC%E5%BC%8F%E3%82%A2%E3%83%97%E3%83%AA%E3%81%AE%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88)
+
+## 参考資料
+
+- [列車番号の意味解説](/JR-shikoku-Apps-Common/custom-icon-database)
