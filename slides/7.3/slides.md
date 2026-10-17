@@ -1,6 +1,6 @@
 ---
 info: |
-  7.2.2 → 7.3 Update Note
+  7.3 Update Note
   併結列車のタブ表示・発車標の1行化・走行位置設定。
 canvasWidth: 1920
 fonts:
@@ -8,7 +8,7 @@ fonts:
   webfonts: []
 layout: cover
 title: JR四国非公式アプリ
-version: Ver7.2.2-7.3 Update Note
+version: Ver7.3 Update Note
 sub: 〜しおかぜといしづち、やっと手をつなぐ〜
 menu:
   - 併結列車をタブで切り替え！
