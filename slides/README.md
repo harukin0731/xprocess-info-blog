@@ -9,7 +9,7 @@ Slidev の依存、共通レイアウト、ロゴ、見出し処理、画像出�
 ブログリポジトリのルートで実行します。テーマは非公開のため GitHub のアクセス権と SSH 認証が必要です。
 
 ```sh
-git submodule update --init --recursive slides/theme
+git submodule update --init --checkout --recursive slides/theme
 npm --prefix slides/theme ci
 npm --prefix slides/theme exec -- playwright install chromium
 ```
@@ -43,3 +43,9 @@ git add slides/theme
 ```
 
 更新後は掲載画像を再生成して確認してください。
+
+## 公開ビルドでのsubmodule取得
+
+`.gitmodules` の `update = none` により、通常の自動初期化ではテーマ取得をスキップします。
+Cloudflare Pagesはコミット済みPNGだけを公開し、非公開テーマへのアクセスは不要です。
+ローカルで画像を生成するときは、上記の `--checkout` を付けた初期化コマンドで明示的に取得します。
