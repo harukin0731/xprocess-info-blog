@@ -6,7 +6,8 @@
     "build": "hexo generate",
     "clean": "hexo clean",
     "deploy": "hexo deploy",
-    "server": "hexo server"
+    "server": "hexo server",
+    "slides:7.3": "npm --prefix slides/theme run render -- --entry ../7.3/slides.md --output ../../source/assets/JRShikokuAppsArchive/7.3"
   },
   "hexo": {
     "version": "7.3.0"

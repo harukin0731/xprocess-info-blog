@@ -1,0 +1,3 @@
+[submodule "slides/theme"]
+	path = slides/theme
+	url = git@github.com:harukin0731/xprocess-slide-theme-base.git

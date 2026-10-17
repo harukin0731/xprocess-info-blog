@@ -1,0 +1,20 @@
+.xp-list--compact { font-size: 32px; gap: 8px; }
+.xp-media { min-height: 0; height: 680px; }
+.xp-media figure { margin: 0; min-width: 0; text-align: center; }
+.xp-media figcaption { margin-top: 12px; color: #5b5b5b; font-size: 24px; font-weight: 700; }
+.screenshot-pair { display: flex; justify-content: center; gap: 24px; width: 100%; }
+.screenshot-pair img, .screenshot-single img { height: 620px; width: auto; border: 1px solid #ddd; border-radius: 12px; }
+.screenshot-wide, .screenshot-stack { width: 100%; }
+.led-crop, .led-row-crop { position: relative; overflow: hidden; border-radius: 12px; background: #40311f; border: 1px solid #ddd; }
+.led-crop { height: 540px; }
+.led-row-crop { height: 200px; }
+.xp-media .led-crop img, .xp-media .led-row-crop img { position: absolute; top: 0; left: 0; width: 100%; max-height: none; max-width: none; transform: translateY(-44%); border: 0; }
+.xp-media .led-row-crop img { transform: translateY(-52%); }
+.switch-arrow { color: #4472c4; text-align: center; font-size: 52px; margin: 16px 0; }
+
+.xp-cover .xp-title--display { font-size: 88px; }
+.formation-crop { position: relative; height: 480px; overflow: hidden; border: 1px solid #ddd; border-radius: 12px; }
+.xp-media .formation-crop img { position: absolute; top: 0; left: 0; width: 100%; max-height: none; max-width: none; transform: translateY(-45%); }
+
+.car-count-crop { position: relative; width: 320px; height: 470px; margin-top: 70px; overflow: hidden; border: 1px solid #ddd; border-radius: 12px; background: #f5f5f5; }
+.xp-media .car-count-crop img { position: absolute; width: 1809px; height: auto; max-width: none; max-height: none; left: -390px; top: -1560px; border: 0; border-radius: 0; }
